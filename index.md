@@ -10,7 +10,9 @@ Hi! My name is David Mason. Here are a few of the things I've worked on.
 
 These are online applications built in JavaScript using Node, Express, React (a UI library), and MongoDB (a NoSQL database program).
 
-[Stocks](https://stocks-djmot.herokuapp.com/)
+---
+
+[#### Stocks](https://stocks-djmot.herokuapp.com/)
 ![stocks screenshot](/images/stocks.png)
 
 #### Codepen projects
