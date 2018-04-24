@@ -12,8 +12,14 @@ These are online applications built in JavaScript using Node, Express, React (a 
 
 ---
 
-[#### Stocks](https://stocks-djmot.herokuapp.com/)
+[Stocks](https://stocks-djmot.herokuapp.com/)
 ![stocks screenshot](/images/stocks.png)
+
+Users can look up and graph the prices of stocks. Users can add and remove stocks and compare several at a time.
+
+---
+
+
 
 #### Codepen projects
 
