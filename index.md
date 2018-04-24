@@ -4,18 +4,6 @@
 Hi! My name is David Mason. Here are a few of the things I've worked on.
 
 
-#### Contents:
-
-1. JavaScript/HTML/CSS
-
-    - Online apps
-  
-    - Algorithm projects
-  
-2. C++
-
-
-
 ## Javascript/HTML/CSS
 
 #### Online apps
