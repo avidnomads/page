@@ -12,14 +12,21 @@ These are online applications built in JavaScript using Node, Express, React (a 
 
 ---
 
-[Stocks](https://stocks-djmot.herokuapp.com/)
+[Stocks (https://stocks-djmot.herokuapp.com/)](https://stocks-djmot.herokuapp.com/)
 ![stocks screenshot](/images/stocks.png)
 
-Users can look up and graph the prices of stocks. Users can add and remove stocks and compare several at a time.
+Users can look up and graph the prices of stocks. 
+Users can add and remove stocks and compare several at a time.
 
 ---
 
+[Voting (https://voting-djmot.herokuapp.com/)](https://voting-djmot.herokuapp.com/)
+![voting screenshot](/images/voting.png)
 
+Users can view and vote on polls created by other users, and see the results. 
+Users can log in using their Twitter accounts and create their own polls.
+
+---
 
 #### Codepen projects
 
