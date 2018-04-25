@@ -77,7 +77,7 @@ In my Master's thesis I give an algorithm to compute all the embeddings of a fin
 
 [Hamiltonian paths in grid graphs](https://github.com/djmot/grid-paths)
 
-A Hamiltonian path in a grid graph is a path in an n x m rectangular grid that hits each point of the grid exactly once. Let G(n,m) be the number of such paths starting at a given corner. This program computes G(n,m) as well as two related numbers: O(n,m), the number of paths which end at the opposite corner to the starting corner, and A(n,m), the number of paths which which end at the corner which is adjacent to the starting corner via the length-n side. These numbers are computed and stored in three tables in CSV format. For example, here is the portion of the A(m,n) for m, n less than 8:
+A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which which end at the corner which is adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. For example, here is the portion of the A(m,n) for m, n less than 8:
 
 ![grid path table](/images/gridtable.png)
 
