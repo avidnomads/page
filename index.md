@@ -67,4 +67,16 @@ This program generates some random points in the plane, then finds all sets of c
 
 These C++ projects were written to compute or count mathematical objects.
 
+[Computing orientable embeddings of Cayley graphs] (https://github.com/djmot/orientable-embeddings)
 
+In my Master's thesis I give an algorithm to compute all the embeddings of a finite Cayley graph in any surface. This program implements the algorithm (restricting to orientable embeddings) for a selection of Cayley graphs, and counts how many of the embeddings yield an orientable surface of genus k (for each possible k). Here are some of the computed results: 
+
+![embedding counts table](/images/thesistable.png)
+
+---
+
+[Counting Hamiltonian paths in grid graphs] (https://github.com/djmot/grid-paths)
+
+---
+
+[Computing Cayley graphs of Burnside groups] (https://github.com/djmot/burnside-groups)
