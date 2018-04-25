@@ -38,8 +38,30 @@ If users log in with Twitter, they can register that they plan to go to a venue.
 
 #### Codepen projects
 
-These are projects stored on codepen.io, where you can view and edit the code right in the page by selecting the "Editor View".
+These are smaller projects stored on codepen.io, where you can view and edit the code right in the page by selecting the "Editor View".
 
+---
+
+[Particle collision simulation (https://codepen.io/djmot/full/XNQEBy/)](https://codepen.io/djmot/full/XNQEBy/)
+![particle screenshot](/images/particle.png)
+
+Run a variety of different particle collision simulations. Particle collisions are predicted and handled efficiently using a priority queue. 
+
+---
+
+[React Game of Life (https://codepen.io/djmot/full/gLObxz/)](https://codepen.io/djmot/full/gLObxz/)
+![life screenshot](/images/life.png)
+
+An implementation of Conway's Game of Life using React UI library. Try pausing the game and clicking on the board to create a custom pattern and then see how it evolves.
+
+---
+
+[Finding collinear points (https://codepen.io/djmot/full/qqKYaW/)](https://codepen.io/djmot/full/qqKYaW/)
+![collinear screenshot](/images/collinear.png)
+
+This program generates some random points in the plane, then finds all sets of collinear points using three different algorithms - a brute force search, a search using JavaScript's Array.sort, and a custom implementation of Mergesort. The computation time for each method is displayed for comparison. 
+
+---
 
 ## C++
 
