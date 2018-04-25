@@ -77,10 +77,12 @@ In my Master's thesis I give an algorithm to compute all the embeddings of a fin
 
 [Hamiltonian paths in grid graphs](https://github.com/djmot/grid-paths)
 
-A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which which end at the corner which is adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. For example, here is the portion of the A(m,n) table for m, n less than 8:
+A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which end at the corner adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. For example, here is the portion of the A(m,n) table for m, n less than 8:
 
 ![grid path table](/images/gridtable.png)
 
 ---
 
 [Cayley graphs of Burnside groups](https://github.com/djmot/burnside-groups)
+
+The Burnside group B(m,n) is defined to be the largest group with m generators and exponent n. Burnside's problem is to determine which of the groups B(m,n) are finite. For example, it is known that the groups B(m,3), B(m,4), and B(m,6) are finite. One way to show that a group is finite is to construct its Cayley graph, since the graph has one vertex for each element of the group. This program attempts to compute the Cayley graph of the group B(2,n) and print the order of the group. For example, B(2,3) is a group of order 27. An interactive drawing of its Cayley graph can be found here: https://codepen.io/djmot/full/apKmEw/
