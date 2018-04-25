@@ -10,7 +10,7 @@ Hi! My name is David Mason. Here are a few of the things I've worked on.
 
 These are online applications built in JavaScript using Node, Express, React (a UI library), and MongoDB (a NoSQL database program).
 
----
+
 
 [Stocks (https://stocks-djmot.herokuapp.com/)](https://stocks-djmot.herokuapp.com/)
 ![stocks screenshot](/images/stocks.png)
@@ -40,7 +40,7 @@ If users log in with Twitter, they can register that they plan to go to a venue.
 
 These are smaller projects stored on codepen.io, where you can view and edit the code right in the page by selecting the "Editor View".
 
----
+
 
 [Particle collision simulation (https://codepen.io/djmot/full/XNQEBy/)](https://codepen.io/djmot/full/XNQEBy/)
 ![particle screenshot](/images/particle.png)
@@ -66,3 +66,5 @@ This program generates some random points in the plane, then finds all sets of c
 ## C++
 
 These C++ projects were written to compute or count mathematical objects.
+
+
