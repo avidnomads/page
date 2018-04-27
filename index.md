@@ -1,4 +1,4 @@
-# Welcome to my portfolio
+# My portfolio
 
 
 Hi! My name is David Mason. Here are a few of the things I've worked on.
