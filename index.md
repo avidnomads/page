@@ -88,3 +88,13 @@ A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that h
 The Burnside group B(m,n) is defined to be the largest group with m generators and exponent n. Burnside's problem is to determine which of the groups B(m,n) are finite. For example, it is known that the groups B(m,3), B(m,4), and B(m,6) are finite. One way to show that a group is finite is to construct its Cayley graph, since the graph has one vertex for each element of the group. This program attempts to compute the Cayley graph of the group B(2,n) and print the order of the group. For example, B(2,3) is a group of order 27, whose Cayley graph is depicted below. An interactive drawing (which omits the direction of edges) can be found here: [https://codepen.io/djmot/full/apKmEw/](https://codepen.io/djmot/full/apKmEw/)
 
 ![B(2,3) Cayley graph](/images/b23graph.png)
+
+---
+
+## Python
+
+[Old School RuneScape Bots](https://github.com/djmot/osrs)
+
+This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs are used to closely simulate a real player. Currently, I'm working on a woodcutting bot which, so far, can cut normal trees, evade enemies, and drop the cut logs when its inventory is full. In development: extension to cut more types of trees, and option to bank logs (once the bot can cut logs worth banking!)
+
+![OSRS bot](/images/osrsbot.png)
