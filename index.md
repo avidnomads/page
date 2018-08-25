@@ -28,11 +28,11 @@ Users can log in using their Twitter accounts and create their own polls.
 
 ---
 
-[Nightlife (https://nightlife-djmot.herokuapp.com/)](https://nightlife-djmot.herokuapp.com/)
-![nightlife screenshot](/images/nightlife1.png)
+[Books (https://books-djmot.herokuapp.com/)](https://books-djmot.herokuapp.com/)
+![books screenshot](/images/books.png)
 
-Users can search for local bars and entertainment and see how many other users plan to go to each venue. 
-If users log in with Twitter, they can register that they plan to go to a venue.
+Users can upload books to a public list and browse other uploaded books.
+Registered users can update their profile info, add books to their private lists, and propose book trades with other users.
 
 ---
 
