@@ -31,7 +31,7 @@ Users can log in using their Twitter accounts and create their own polls.
 [Books (https://books-djmot.herokuapp.com/)](https://books-djmot.herokuapp.com/)
 ![books screenshot](/images/books.png)
 
-Users can upload books to a public list and browse other uploaded books.
+Registered users can upload books to a public list and browse other uploaded books.
 Registered users can update their profile info, add books to their private lists, and propose book trades with other users.
 
 ---
