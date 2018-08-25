@@ -1,7 +1,7 @@
 # My portfolio
 
 
-Hi! My name is David Mason. I am a candidate in the Masters in Quantitative and Computational Finance program at Georgia Tech, with an interest in mathematics, computer science, and programming. Here are some of the programming projects I've worked on.
+Hi! My name is David Mason. I am a candidate in the Quantitative and Computational Finance M.S. program at Georgia Tech, with an interest in mathematics, computer science, and programming. Here are some of the programming projects I've worked on.
 
 
 ## Javascript/HTML/CSS
@@ -95,6 +95,6 @@ The Burnside group B(m,n) is defined to be the largest group with m generators a
 
 [Old School RuneScape Bots](https://github.com/djmot/osrs)
 
-This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot (with features in development), a script to create new accounts, and a bot to complete the long tutorial portion of the game. In progress: banking/Grand Exchange trading utilities and a bot to acquire supplies on a new account.
+This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the long tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
 
 ![OSRS bot](/images/osrsbot.png)
