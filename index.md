@@ -1,7 +1,7 @@
 # My portfolio
 
 
-Hi! My name is David Mason. Here are a few of the things I've worked on.
+Hi! My name is David Mason. I am a candidate in the Masters in Quantitative and Computational Finance program at Georgia Tech, with an interest in mathematics, computer science, and programming. Here are some of the programming projects I've worked on.
 
 
 ## Javascript/HTML/CSS
@@ -95,6 +95,6 @@ The Burnside group B(m,n) is defined to be the largest group with m generators a
 
 [Old School RuneScape Bots](https://github.com/djmot/osrs)
 
-This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs are used to closely simulate a real player. Currently, I'm working on a woodcutting bot which, so far, can cut normal trees, evade enemies, and drop the cut logs when its inventory is full. In development: extension to cut more types of trees, and option to bank logs (once the bot can cut logs worth banking!)
+This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot (with features in development) and a bot to complete the long tutorial portion of the game.
 
 ![OSRS bot](/images/osrsbot.png)
