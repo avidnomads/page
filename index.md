@@ -20,19 +20,19 @@ Users can add and remove stocks and compare several at a time.
 
 ---
 
+[Nightlife (https://night-life-djmot.herokuapp.com/)](https://night-life-djmot.herokuapp.com/)
+![nightlife screenshot](/images/nightlife.png)
+
+Users can search for local bars and entertainment venues.
+Users can log in with Twitter and then register that they plan to go to a venue.
+
+---
+
 [Voting (https://voting-djmot.herokuapp.com/)](https://voting-djmot.herokuapp.com/)
 ![voting screenshot](/images/voting.png)
 
 Users can view and vote on polls created by other users, and see the results. 
 Users can log in using their Twitter accounts and create their own polls.
-
----
-
-[Books (https://books-djmot.herokuapp.com/)](https://books-djmot.herokuapp.com/)
-![books screenshot](/images/books.png)
-
-Registered users can upload books to a public list and browse other uploaded books.
-Registered users can update their profile info, add books to their private lists, and propose book trades with other users.
 
 ---
 
