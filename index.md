@@ -21,7 +21,7 @@ Users can add and remove stocks and compare several at a time.
 ---
 
 [Nightlife (https://night-life-djmot.herokuapp.com/)](https://night-life-djmot.herokuapp.com/)
-![nightlife screenshot](/images/nightlife.png)
+![nightlife screenshot](/images/nightlife1.png)
 
 Users can search for local bars and entertainment venues.
 Users can log in with Twitter and then register that they plan to go to a venue.
