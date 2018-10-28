@@ -1,8 +1,28 @@
-# My portfolio
+# Projects
 
+## Python
 
-Hi! My name is David Mason. I am a candidate in the Quantitative and Computational Finance M.S. program at Georgia Tech, with an interest in mathematics, computer science, and programming. Here are some of the programming projects I've worked on.
+[Old School RuneScape Bots](https://github.com/djmot/osrs)
 
+A collection of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
+
+Check out a YouTube video of the bots in action by clicking the image below.
+
+[![OSRS bot](/images/osrsbot.png)](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo")
+
+---
+
+[Black-Litterman model implementation](https://github.com/djmot/BLP)
+
+An implementation of the Black-Litterman model, which estimates the distribution of expected excess returns of a collection of asset classes. By using historical return data for a collection of asset classes and incorporating our own views about the future returns, we can generate an estimate of the future distribution of returns and, therefore, an optimal portfolio in these asset classes (optimal in the sense of maximizing the Sharpe ratio of the portfolio).
+
+An example is provided in the github repository.
+
+![blp_image](/images/blp.png)
+
+(image from Idzorek (2005): "A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL" which is also a great resource for understanding and using the Black-Litterman model)
+
+---
 
 ## Javascript/HTML/CSS
 
@@ -88,13 +108,3 @@ A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that h
 The Burnside group B(m,n) is defined to be the largest group with m generators and exponent n. Burnside's problem is to determine which of the groups B(m,n) are finite. For example, it is known that the groups B(m,3), B(m,4), and B(m,6) are finite. One way to show that a group is finite is to construct its Cayley graph, since the graph has one vertex for each element of the group. This program attempts to compute the Cayley graph of the group B(2,n) and print the order of the group. For example, B(2,3) is a group of order 27, whose Cayley graph is depicted below. An interactive drawing (which omits the direction of edges) can be found here: [https://codepen.io/djmot/full/apKmEw/](https://codepen.io/djmot/full/apKmEw/)
 
 ![B(2,3) Cayley graph](/images/b23graph.png)
-
----
-
-## Python
-
-[Old School RuneScape Bots](https://github.com/djmot/osrs)
-
-This project is a work in progress: a suite of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the long tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
-
-![OSRS bot](/images/osrsbot.png)
