@@ -18,7 +18,7 @@ An implementation of the Black-Litterman model, which estimates the distribution
 
 An example is provided in the github repository.
 
-![blp_image](/images/blp.png)
+![blp_image](/images/blp.PNG)
 
 (image from Idzorek (2005): "A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL" which is also a great resource for understanding and using the Black-Litterman model)
 
