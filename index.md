@@ -24,19 +24,15 @@ An example is provided in the github repository.
 
 ---
 
-## Javascript/HTML/CSS
+## Web development
 
 #### Online apps
 
-These are online applications built in JavaScript using Node, Express, React (a UI library), and MongoDB (a NoSQL database program).
+[Studious (https://studious-carrot.herokuapp.com/)](https://studious-carrot.herokuapp.com/)
+![studious screenshot](/images/studious.png)
 
-
-
-[Stocks (https://stocks-djmot.herokuapp.com/)](https://stocks-djmot.herokuapp.com/)
-![stocks screenshot](/images/stocks.png)
-
-Users can look up and graph the prices of stocks. 
-Users can add and remove stocks and compare several at a time.
+Studious is a platform for creating, reviewing, and sharing lessons which implements a ![spaced repetition system](https://knowledge.wanikani.com/wanikani/srs/) for efficient reviews.
+Built with Django, PostgreSQL, and pure JavaScript.
 
 ---
 
@@ -53,6 +49,14 @@ Users can log in with Twitter and then register that they plan to go to a venue.
 
 Users can view and vote on polls created by other users, and see the results. 
 Users can log in using their Twitter accounts and create their own polls.
+
+---
+
+[Stocks (https://stocks-djmot.herokuapp.com/)](https://stocks-djmot.herokuapp.com/)
+![stocks screenshot](/images/stocks.png)
+
+Users can look up and graph the prices of stocks. 
+Users can add and remove stocks and compare several at a time.
 
 ---
 
