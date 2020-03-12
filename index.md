@@ -1,33 +1,5 @@
 # Projects
 
-## Python
-
-[Old School RuneScape Bots](https://github.com/djmot/osrs)
-
-A collection of botting programs for the video game Old School RuneScape (OSRS). These programs use pixel and image searching to perform a set of tasks in the game. So far the main libraries in use are PyAutoGui for keyboard/mouse automation and image searching, PIL for image searching and manipulation, and Tkinter for GUI elements. Human-like mouse and keyboard inputs, including replication of actual human mouse moves, are used to closely simulate a real player. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
-
-Check out a YouTube video of the bots in action by clicking the image below.
-
-[![OSRS bot](/images/osrsbot.png)](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo")
-
----
-
-[Black-Litterman model implementation](https://github.com/djmot/BLP)
-
-An implementation of the Black-Litterman model, which estimates the distribution of expected excess returns of a collection of asset classes. By using historical return data for a collection of asset classes and incorporating our own views about the future returns, we can generate an estimate of the future distribution of returns and, therefore, an optimal portfolio in these asset classes (optimal in the sense of maximizing the Sharpe ratio of the portfolio).
-
-An example is provided in the github repository.
-
-![blp_image](/images/blp.PNG)
-
-(image from Idzorek (2005): "A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL" which is also a great resource for understanding and using the Black-Litterman model)
-
----
-
-## Web development
-
-#### Online apps
-
 [Studious (https://studious-carrot.herokuapp.com/)](https://studious-carrot.herokuapp.com/)
 ![studious screenshot](/images/studious.png)
 
@@ -36,19 +8,38 @@ Built with Django, PostgreSQL, and pure JavaScript.
 
 ---
 
+[Old School RuneScape Bots](https://github.com/djmot/osrs)
+
+A collection of botting programs for the video game Old School RuneScape. These are "color bots" which read and search the game canvas and interact using human-like mouse and keyboard inputs. Built in Python using PyAutoGui, PIL and Tkinter. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
+
+Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of the bots in action:
+[![OSRS bot](/images/osrsbot.png)](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo")
+
+---
+
 [Nightlife (https://night-life-djmot.herokuapp.com/)](https://night-life-djmot.herokuapp.com/)
 ![nightlife screenshot](/images/nightlife1.png)
 
-Users can search for local bars and entertainment venues.
-Users can log in with Twitter and then register that they plan to go to a venue.
+Search for local bars, restaurants, and more and see where everyone else is going. Built with Node/Express and integrated with Twitter for authentication and Yelp to search local venues.
+
+---
+
+[Black-Litterman model implementation](https://github.com/djmot/BLP)
+
+A Python implementation of the Black-Litterman model, which estimates the distribution of expected excess returns of a collection of asset classes. By using historical return data for a collection of asset classes and incorporating our own views about the future returns, we can generate an estimate of the future distribution of returns and, therefore, an optimal portfolio in these asset classes (optimal in the sense of maximizing the Sharpe ratio of the portfolio).
+
+A detailed example is provided in the [github repository.](https://github.com/djmot/BLP)
+
+![blp_image](/images/blp.PNG)
+
+(image from Idzorek (2005): "A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL" which is also a great resource for understanding and using the Black-Litterman model)
 
 ---
 
 [Voting (https://voting-djmot.herokuapp.com/)](https://voting-djmot.herokuapp.com/)
 ![voting screenshot](/images/voting.png)
 
-Users can view and vote on polls created by other users, and see the results. 
-Users can log in using their Twitter accounts and create their own polls.
+Create and vote in online polls, and see the results in a simple (but elegant) display. Built with Node/Express/MongoDB, Chart.js, and Twitter API for authentication.
 
 ---
 
@@ -60,23 +51,17 @@ Users can add and remove stocks and compare several at a time.
 
 ---
 
-#### Codepen projects
-
-These are smaller projects stored on codepen.io, where you can view and edit the code right in the page by selecting the "Editor View".
-
-
-
 [Particle collision simulation (https://codepen.io/djmot/full/XNQEBy/)](https://codepen.io/djmot/full/XNQEBy/)
 ![particle screenshot](/images/particle.png)
 
-Run a variety of different particle collision simulations. Particle collisions are predicted and handled efficiently using a priority queue. 
+Run a variety of different particle collision simulations built with pure JavaScript. Particle collisions are predicted and handled efficiently using a priority queue. 
 
 ---
 
 [React Game of Life (https://codepen.io/djmot/full/gLObxz/)](https://codepen.io/djmot/full/gLObxz/)
 ![life screenshot](/images/life.png)
 
-An implementation of Conway's Game of Life using React UI library. Try pausing the game and clicking on the board to create a custom pattern and then see how it evolves.
+An implementation of Conway's Game of Life in JavaScript/React. Pause the game, create a new pattern, and see how it evolves.
 
 ---
 
@@ -86,10 +71,6 @@ An implementation of Conway's Game of Life using React UI library. Try pausing t
 This program generates some random points in the plane, then finds all sets of collinear points using three different algorithms - a brute force search, a search using JavaScript's Array.sort, and a custom implementation of Mergesort. The computation time for each method is displayed for comparison. 
 
 ---
-
-## C++
-
-These C++ projects were written to compute or count mathematical objects.
 
 [Orientable embeddings of Cayley graphs](https://github.com/djmot/orientable-embeddings)
 
@@ -101,8 +82,9 @@ In my Master's thesis I give an algorithm to compute all the embeddings of a fin
 
 [Hamiltonian paths in grid graphs](https://github.com/djmot/grid-paths)
 
-A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which end at the corner adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. For example, here is the portion of the A(m,n) table for m, n less than 8:
+A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which end at the corner adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. 
 
+A portion of the A(m,n) table for m, n less than 8:
 ![grid path table](/images/gridtable.png)
 
 ---
