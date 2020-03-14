@@ -2,7 +2,7 @@
 
 ### Studious
 
-[(https://studious-carrot.herokuapp.com/)](https://studious-carrot.herokuapp.com/)
+https://studious-carrot.herokuapp.com/
 
 ![studious screenshot](/images/studious.png)
 
@@ -13,7 +13,7 @@ Built with Django, PostgreSQL, and pure JavaScript.
 
 ### Old School RuneScape Bots
 
-(https://github.com/dmjz/osrs)
+https://github.com/dmjz/osrs
 
 A collection of botting programs for the video game Old School RuneScape. These are "color bots" which read and search the game canvas and interact using human-like mouse and keyboard inputs. Built in Python using PyAutoGui, PIL and Tkinter. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
 
