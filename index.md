@@ -1,6 +1,6 @@
 # Projects
 
-[## Studious (https://studious-carrot.herokuapp.com/)](https://studious-carrot.herokuapp.com/)
+##[Studious (https://studious-carrot.herokuapp.com/)](https://studious-carrot.herokuapp.com/)
 ![studious screenshot](/images/studious.png)
 
 Studious is a platform for creating, reviewing, and sharing lessons which implements a [spaced repetition system](https://knowledge.wanikani.com/wanikani/srs/) for efficient reviews.
