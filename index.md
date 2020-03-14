@@ -47,7 +47,7 @@ Naive hyperparameter selection with LendingClub data
 
 ### Nightlife 
 
-(https://night-life-djmot.herokuapp.com/)](https://night-life-djmot.herokuapp.com/)
+(https://night-life-djmot.herokuapp.com/)
 
 ![nightlife screenshot](/images/nightlife1.png)
 
@@ -71,7 +71,7 @@ A detailed example is provided in the [github repository.](https://github.com/dm
 
 ### Voting 
 
-(https://voting-djmot.herokuapp.com/)](https://voting-djmot.herokuapp.com/)
+(https://voting-djmot.herokuapp.com/)
 
 ![voting screenshot](/images/voting.png)
 
@@ -91,7 +91,7 @@ In this project we use word embedding to produce features from the natural langu
 
 ### Particle collision simulation 
 
-(https://codepen.io/djmot/full/XNQEBy/)](https://codepen.io/djmot/full/XNQEBy/)
+(https://codepen.io/djmot/full/XNQEBy/)
 
 ![particle screenshot](/images/particle.png)
 
@@ -101,7 +101,7 @@ Run a variety of different particle collision simulations built with pure JavaSc
 
 ### React Game of Life 
 
-(https://codepen.io/djmot/full/gLObxz/)](https://codepen.io/djmot/full/gLObxz/)
+(https://codepen.io/djmot/full/gLObxz/)
 
 ![life screenshot](/images/life.png)
 
