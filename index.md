@@ -43,11 +43,11 @@ Create and vote in online polls, and see the results in a simple (but elegant) d
 
 ---
 
-[Stocks (https://stocks-djmot.herokuapp.com/)](https://stocks-djmot.herokuapp.com/)
-![stocks screenshot](/images/stocks.png)
+[Text analysis of SEC filings](https://github.com/dmjz/sec-embed)
 
-Users can look up and graph the prices of stocks. 
-Users can add and remove stocks and compare several at a time.
+In this project we use word embedding to produce features from the natural language content of SEC filings and test the effect of these features on stock price movement. We use Python for web scraping, topic analysis, and data visualization, and PyTorch to build and train a neural network for word embedding. 
+
+![word embed](/images/model_arch.png)
 
 ---
 
@@ -62,13 +62,6 @@ Run a variety of different particle collision simulations built with pure JavaSc
 ![life screenshot](/images/life.png)
 
 An implementation of Conway's Game of Life in JavaScript/React. Pause the game, create a new pattern, and see how it evolves.
-
----
-
-[Finding collinear points (https://codepen.io/djmot/full/qqKYaW/)](https://codepen.io/djmot/full/qqKYaW/)
-![collinear screenshot](/images/collinear.png)
-
-This program generates some random points in the plane, then finds all sets of collinear points using three different algorithms - a brute force search, a search using JavaScript's Array.sort, and a custom implementation of Mergesort. The computation time for each method is displayed for comparison. 
 
 ---
 
