@@ -2,7 +2,7 @@
 
 ### Studious
 
-https://studious-carrot.herokuapp.com/
+[https://studious-carrot.herokuapp.com/](https://studious-carrot.herokuapp.com/)
 
 ![studious screenshot](/images/studious.png)
 
@@ -13,7 +13,7 @@ Built with Django, PostgreSQL, and pure JavaScript.
 
 ### Old School RuneScape Bots
 
-https://github.com/dmjz/osrs
+[https://github.com/dmjz/osrs](https://github.com/dmjz/osrs)
 
 A collection of botting programs for the video game Old School RuneScape. These are "color bots" which read and search the game canvas and interact using human-like mouse and keyboard inputs. Built in Python using PyAutoGui, PIL and Tkinter. Currently there is a woodcutting bot, a script to register new accounts, a bot to complete the tutorial portion of the game, and a bot that uses banking/Grand Exchange trading utilities to acquire supplies on new accounts.
 
@@ -25,7 +25,7 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 ### Notebooks
 
-(https://github.com/dmjz/notebooks)
+[https://github.com/dmjz/notebooks](https://github.com/dmjz/notebooks)
 
 A few fun mathematical Jupyter notebooks:
 
@@ -47,7 +47,7 @@ Naive hyperparameter selection with LendingClub data
 
 ### Nightlife 
 
-(https://night-life-djmot.herokuapp.com/)
+[https://night-life-djmot.herokuapp.com/](https://night-life-djmot.herokuapp.com/)
 
 ![nightlife screenshot](/images/nightlife1.png)
 
@@ -57,7 +57,7 @@ Search for local bars, restaurants, and more and see where everyone else is goin
 
 ### Black-Litterman model implementation
 
-(https://github.com/dmjz/BLP)
+[https://github.com/dmjz/BLP](https://github.com/dmjz/BLP)
 
 A Python implementation of the Black-Litterman model, which estimates the distribution of expected excess returns of a collection of asset classes. By using historical return data for a collection of asset classes and incorporating our own views about the future returns, we can generate an estimate of the future distribution of returns and, therefore, an optimal portfolio in these asset classes (optimal in the sense of maximizing the Sharpe ratio of the portfolio).
 
