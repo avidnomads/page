@@ -71,7 +71,7 @@ A detailed example is provided in the [github repository.](https://github.com/dm
 
 ### Voting 
 
-(https://voting-djmot.herokuapp.com/)
+[https://voting-djmot.herokuapp.com/](https://voting-djmot.herokuapp.com/)
 
 ![voting screenshot](/images/voting.png)
 
@@ -81,7 +81,7 @@ Create and vote in online polls, and see the results in a simple (but elegant) d
 
 ### Text analysis of SEC filings
 
-(https://github.com/dmjz/sec-embed)
+[https://github.com/dmjz/sec-embed](https://github.com/dmjz/sec-embed)
 
 In this project we use word embedding to produce features from the natural language content of SEC filings and test the effect of these features on stock price movement. We use Python for web scraping, topic analysis, and data visualization, and PyTorch to build and train a neural network for word embedding. 
 
@@ -91,7 +91,7 @@ In this project we use word embedding to produce features from the natural langu
 
 ### Particle collision simulation 
 
-(https://codepen.io/djmot/full/XNQEBy/)
+[https://codepen.io/djmot/full/XNQEBy/](https://codepen.io/djmot/full/XNQEBy/)
 
 ![particle screenshot](/images/particle.png)
 
@@ -101,7 +101,7 @@ Run a variety of different particle collision simulations built with pure JavaSc
 
 ### React Game of Life 
 
-(https://codepen.io/djmot/full/gLObxz/)
+[https://codepen.io/djmot/full/gLObxz/](https://codepen.io/djmot/full/gLObxz/)
 
 ![life screenshot](/images/life.png)
 
@@ -111,7 +111,7 @@ An implementation of Conway's Game of Life in JavaScript/React. Pause the game, 
 
 ### Orientable embeddings of Cayley graphs
 
-(https://github.com/dmjz/orientable-embeddings)
+[https://github.com/dmjz/orientable-embeddings](https://github.com/dmjz/orientable-embeddings)
 
 In my Master's thesis I give an algorithm to compute all the embeddings of a finite Cayley graph in any surface. This program implements the algorithm (restricting to orientable embeddings) for a selection of Cayley graphs, and counts how many of the embeddings yield an orientable surface of genus k (for each possible k). Here are some of the computed results: 
 
@@ -121,7 +121,7 @@ In my Master's thesis I give an algorithm to compute all the embeddings of a fin
 
 ### Hamiltonian paths in grid graphs
 
-(https://github.com/dmjz/grid-paths)
+[https://github.com/dmjz/grid-paths](https://github.com/dmjz/grid-paths)
 
 A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that hits each point of the grid exactly once. Let G(m,n) be the number of such paths starting at a given corner. This program computes G(m,n) as well as two related numbers: O(m,n), the number of paths which end at the opposite corner to the starting corner, and A(m,n), the number of paths which end at the corner adjacent to the starting corner via the length-m side. These numbers are computed and stored in three tables in CSV format. 
 
@@ -133,7 +133,7 @@ A portion of the A(m,n) table for m, n less than 8:
 
 ### Cayley graphs of Burnside groups
 
-(https://github.com/dmjz/burnside-graphs)
+[https://github.com/dmjz/burnside-graphs](https://github.com/dmjz/burnside-graphs)
 
 The Burnside group B(m,n) is defined to be the largest group with m generators and exponent n. Burnside's problem is to determine which of the groups B(m,n) are finite. For example, it is known that the groups B(m,3), B(m,4), and B(m,6) are finite. One way to show that a group is finite is to construct its Cayley graph, since the graph has one vertex for each element of the group. This program attempts to compute the Cayley graph of the group B(2,n) and print the order of the group. For example, B(2,3) is a group of order 27, whose Cayley graph is depicted below. An interactive drawing (which omits the direction of edges) can be found here: 
 
