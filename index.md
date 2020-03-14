@@ -17,6 +17,23 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 ---
 
+[Notebooks](https://github.com/dmjz/notebooks)
+
+A few fun mathematical Jupyter notebooks:
+
+1. monte_carlo_areas
+Compute and plot some interesting areas in plan geometry by random sampling
+
+2. multiplication_methods
+Explore algorithms for fast multiplication
+
+3. predicting_loan_default
+Naive hyperparameter selection with LendingClub data
+
+![monte_carlo_areas](/images/mandelbrot.png)
+
+---
+
 [Nightlife (https://night-life-djmot.herokuapp.com/)](https://night-life-djmot.herokuapp.com/)
 ![nightlife screenshot](/images/nightlife1.png)
 
