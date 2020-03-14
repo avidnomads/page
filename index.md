@@ -22,12 +22,15 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 A few fun mathematical Jupyter notebooks:
 
 1. monte_carlo_areas
+
 Compute and plot some interesting areas in plan geometry by random sampling
 
 2. multiplication_methods
+
 Explore algorithms for fast multiplication
 
 3. predicting_loan_default
+
 Naive hyperparameter selection with LendingClub data
 
 ![monte_carlo_areas](/images/mandelbrot.png)
