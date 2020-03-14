@@ -9,7 +9,7 @@
 Studious is a platform for creating, reviewing, and sharing lessons which implements a [spaced repetition system](https://knowledge.wanikani.com/wanikani/srs/) for efficient reviews.
 Built with Django, PostgreSQL, and pure JavaScript.
 
----
+
 
 ### Old School RuneScape Bots
 
@@ -21,7 +21,7 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 [![OSRS bot](/images/osrsbot.png)](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo")
 
----
+
 
 ### Notebooks
 
@@ -43,7 +43,7 @@ Naive hyperparameter selection with LendingClub data
 
 ![monte_carlo_areas](/images/mandelbrot.png)
 
----
+
 
 ### Nightlife 
 
@@ -53,7 +53,7 @@ Naive hyperparameter selection with LendingClub data
 
 Search for local bars, restaurants, and more and see where everyone else is going. Built with Node/Express and integrated with Twitter for authentication and Yelp to search local venues.
 
----
+
 
 ### Black-Litterman model implementation
 
@@ -67,7 +67,7 @@ A detailed example is provided in the [github repository.](https://github.com/dj
 
 (image from Idzorek (2005): "A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL" which is also a great resource for understanding and using the Black-Litterman model)
 
----
+
 
 ### Voting 
 
@@ -77,7 +77,7 @@ A detailed example is provided in the [github repository.](https://github.com/dj
 
 Create and vote in online polls, and see the results in a simple (but elegant) display. Built with Node/Express/MongoDB, Chart.js, and Twitter API for authentication.
 
----
+
 
 ### Text analysis of SEC filings
 
@@ -87,7 +87,7 @@ In this project we use word embedding to produce features from the natural langu
 
 ![word embed](/images/model_arch.png)
 
----
+
 
 ### Particle collision simulation 
 
@@ -97,7 +97,7 @@ In this project we use word embedding to produce features from the natural langu
 
 Run a variety of different particle collision simulations built with pure JavaScript. Particle collisions are predicted and handled efficiently using a priority queue. 
 
----
+
 
 ### React Game of Life 
 
@@ -107,7 +107,7 @@ Run a variety of different particle collision simulations built with pure JavaSc
 
 An implementation of Conway's Game of Life in JavaScript/React. Pause the game, create a new pattern, and see how it evolves.
 
----
+
 
 ### Orientable embeddings of Cayley graphs
 
@@ -117,7 +117,7 @@ In my Master's thesis I give an algorithm to compute all the embeddings of a fin
 
 ![embedding counts table](/images/thesistable.png)
 
----
+
 
 ### Hamiltonian paths in grid graphs
 
@@ -129,7 +129,7 @@ A portion of the A(m,n) table for m, n less than 8:
 
 ![grid path table](/images/gridtable.png)
 
----
+
 
 ### Cayley graphs of Burnside groups
 
