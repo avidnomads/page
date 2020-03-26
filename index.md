@@ -29,21 +29,21 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 ![group_graphs](/images/cayley_graph_2.PNG)
 
-- group_graphs
+**group_graphs**
 
-Develop and apply an algorithm to build the Cayley graph of a group presentation
+ - Develop and apply an algorithm to build the Cayley graph of a group presentation
 
-- monte_carlo_areas
+**monte_carlo_areas**
 
-Plot and estimate areas of interesting planar regions by random sampling
+ - Plot and estimate areas of interesting planar regions by random sampling
 
-- multiplication_methods
+**multiplication_methods**
 
-Explore fast multiplication algorithms
+ - Explore fast multiplication algorithms
 
-- predicting_loan_default
+**predicting_loan_default**
 
-Very naive hyperparameter selection with LendingClub data
+ - Very naive hyperparameter selection with LendingClub data
 
 ![monte_carlo_areas](/images/mandelbrot.png)
 
