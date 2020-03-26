@@ -27,7 +27,7 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 [https://github.com/dmjz/notebooks](https://github.com/dmjz/notebooks)
 
-![group_graphs](/images/cayley_graph_2.png)
+![group_graphs](/images/cayley_graph_2.PNG)
 
 - group_graphs
 
