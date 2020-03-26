@@ -9,7 +9,7 @@
 Studious is a platform for creating, reviewing, and sharing lessons which implements a [spaced repetition system](https://knowledge.wanikani.com/wanikani/srs/) for efficient reviews.
 Built with Django, PostgreSQL, and pure JavaScript.
 
-
+---
 
 ### Old School RuneScape Bots
 
