@@ -27,19 +27,23 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 [https://github.com/dmjz/notebooks](https://github.com/dmjz/notebooks)
 
-A few fun mathematical Jupyter notebooks:
+![group_graphs](/images/cayley_graph_2.png)
 
- - monte_carlo_areas
+- group_graphs
 
-Compute and plot some interesting areas in plan geometry by random sampling
+Develop and apply an algorithm to build the Cayley graph of a group presentation
 
- - multiplication_methods
+- monte_carlo_areas
 
-Explore algorithms for fast multiplication
+Plot and estimate areas of interesting planar regions by random sampling
 
- - predicting_loan_default
+- multiplication_methods
 
-Naive hyperparameter selection with LendingClub data
+Explore fast multiplication algorithms
+
+- predicting_loan_default
+
+Very naive hyperparameter selection with LendingClub data
 
 ![monte_carlo_areas](/images/mandelbrot.png)
 
