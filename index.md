@@ -15,6 +15,16 @@ Built with Django, PostgreSQL, and pure JavaScript.
 
 
 
+### Gallery
+
+[https://github.com/dmjz/gallery](https://github.com/dmjz/gallery)
+
+A Python image browser based on [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/). I was frustrated at the max thumbnail size in Windows file explorer, and wanted to try out a fun GUI library. This provides larger thumbnails, plus simple batch editing options like rescaling, sorting, selecting, and moving files that make it faster and easier to do common tasks.
+
+![gallery_screenshot](/images/gallery_screenshot.PNG)
+
+
+
 
 ### Old School RuneScape Bots
 
@@ -25,7 +35,6 @@ A collection of botting programs for the video game Old School RuneScape. These 
 Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of the bots in action:
 
 [![OSRS bot](/images/osrsbot.png)](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo")
-
 
 
 
@@ -57,7 +66,6 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 
 
 
-
 ### Nightlife 
 
 [https://night-life-djmot.herokuapp.com/](https://night-life-djmot.herokuapp.com/)
@@ -65,7 +73,6 @@ Check out a [video](https://www.youtube.com/watch?v=kuUoJRoRcMU "osrs demo") of 
 ![nightlife screenshot](/images/nightlife1.png)
 
 Search for local bars, restaurants, and more and see where everyone else is going. Built with Node/Express and integrated with Twitter for authentication and Yelp to search local venues.
-
 
 
 
@@ -85,7 +92,6 @@ A detailed example is provided in the [github repository.](https://github.com/dm
 
 
 
-
 ### Voting 
 
 [https://voting-djmot.herokuapp.com/](https://voting-djmot.herokuapp.com/)
@@ -97,7 +103,6 @@ Create and vote in online polls, and see the results in a simple (but elegant) d
 
 
 
-
 ### Text analysis of SEC filings
 
 [https://github.com/dmjz/sec-embed](https://github.com/dmjz/sec-embed)
@@ -105,7 +110,6 @@ Create and vote in online polls, and see the results in a simple (but elegant) d
 In this project we use word embedding to produce features from the natural language content of SEC filings and test the effect of these features on stock price movement. We use Python for web scraping, topic analysis, and data visualization, and PyTorch to build and train a neural network for word embedding. 
 
 ![word embed](/images/model_arch.png)
-
 
 
 
@@ -133,7 +137,6 @@ An implementation of Conway's Game of Life in JavaScript/React. Pause the game, 
 
 
 
-
 ### Orientable embeddings of Cayley graphs
 
 [https://github.com/dmjz/orientable-embeddings](https://github.com/dmjz/orientable-embeddings)
@@ -141,7 +144,6 @@ An implementation of Conway's Game of Life in JavaScript/React. Pause the game, 
 In my Master's thesis I give an algorithm to compute all the embeddings of a finite Cayley graph in any surface. This program implements the algorithm (restricting to orientable embeddings) for a selection of Cayley graphs, and counts how many of the embeddings yield an orientable surface of genus k (for each possible k). Here are some of the computed results: 
 
 ![embedding counts table](/images/thesistable.png)
-
 
 
 
@@ -155,7 +157,6 @@ A Hamiltonian path in a grid graph is a path in an m x n rectangular grid that h
 A portion of the A(m,n) table for m, n less than 8:
 
 ![grid path table](/images/gridtable.png)
-
 
 
 
